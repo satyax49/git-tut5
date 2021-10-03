@@ -2,3 +2,5 @@ Utility function for version 2
 this is vesion 3
 Changes in utils.txt
 4ht change
+ */ <Variable name="body.background" description="Background" type="background" color="$(body.background.color)" default="$(color) url(//2.bp.blogspot.com/-XUjrHwKdABI/Wy7BNdhE8eI/AAAAAAAACIw/O2Tlvz1PJHQ9yU5gSfqXGN7MKw9KTlwFACK4BGAYYCw/s1600/body.bg.png) repeat fixed top left" value="$(color) url(//2.bp.blogspot.com/-XUjrHwKdABI/Wy7BNdhE8eI/AAAAAAAACIw/O2Tlvz1PJHQ9yU5gSfqXGN7MKw9KTlwFACK4BGAYYCw/s1600/body.bg.png) repeat fixed top left"/>
+/*
